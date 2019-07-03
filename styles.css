@@ -43,10 +43,10 @@ body{
   vertical-align: top;
 }
 
-.contact a{
+.contact a, .description a{
   color: #004938;
 }
 
-.contact a:hover{
+.contact a:hover, .description a:hover{
   color: black;
 }
