@@ -30,23 +30,21 @@ body{
   font-weight: bold;
 }
 
-.description, .contact{
+.hittrax-photo{
+  float: right;
+}
+
+.description, .contact, .rental-instructions{
   max-width: 1000px;
   margin: 0 auto;
   text-align: center;
 }
 
-.list{
-  padding-left: 425px;
-  min-width: 300px;
-  display: inline-block;
-  vertical-align: top;
-}
 
-.contact a, .description a{
+.contact a, .description a, .rental-instructions a{
   color: #004938;
 }
 
-.contact a:hover, .description a:hover{
+.contact a:hover, .description a:hover, .rental-instructions a:hover{
   color: black;
 }
